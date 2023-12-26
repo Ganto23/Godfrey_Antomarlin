@@ -2,8 +2,8 @@ import os, time, pyaudio, playsound, openai
 import gtts
 import speech_recognition as sr
 
-#api_key = "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"
-api_key = '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'
+#api_key = "???"
+api_key = '???'
 
 lang = 'en'
 
