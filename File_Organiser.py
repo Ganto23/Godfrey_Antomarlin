@@ -21,11 +21,11 @@ file_extension_video = ['.webm', '.mkv', '.flv', '.vob', '.ogv', '.ogg', '.drc',
 
 
 
-source_dir = '/Users/godfreyantomarlin/Downloads'
-dest_dir_image = '/Users/godfreyantomarlin/iCloud Drive/Downloaded Images'
-dest_dir_music = '/Users/godfreyantomarlin/iCloud Drive/Downloaded Music'
-dest_dir_video = '/Users/godfreyantomarlin/iCloud Drive/Downloaded Videos'
-dest_dir_other = '/Users/godfreyantomarlin/iCloud Drive/Downloaded Other'
+source_dir = '?'
+dest_dir_image = '??'
+dest_dir_music = '???'
+dest_dir_video = '????'
+dest_dir_other = '?????'
 
 def make_unique(dest, name):
     filename, extension = splitext(name)
