@@ -9,5 +9,5 @@ yt = YouTube(link)
 print("Title :", yt.title)
 
 video = yt.streams.get_highest_resolution()
-video.download('/Users/godfreyantomarlin/Downloads/Python_projects/Youtube_Downloader/Downloaded_Videos')
+video.download('path to folder')
 
